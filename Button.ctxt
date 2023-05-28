@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Clickable\ button\r\n
+comment1.params=buttonText\ width\ height
+comment1.target=Button(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Update\ the\ button\ image\ based\ on\ its\ state\r\n
+numComments=4

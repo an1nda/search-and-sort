@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=A
+comment0.text=\r\n\ Example\ Canvas\ for\ practicing\ how\ to\ draw/visualize\ an\ array\r\n
+comment1.params=
+comment1.target=A()
+comment1.text=\r\n\ When\ this\ class\ is\ instantiated,\ set\ up\ and\ shuffle\ the\ main\ array\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ TODO\:\ Replace\ this\ code\ with\ your\ own\ code\ to\ draw\ your\ array.\r\n
+comment3.params=arr
+comment3.target=void\ bubbleSort(int[])
+comment3.text=\r\n\ A\ simple\ sorting\ algorithm\r\n\ @param\ arr\ An\ integer\ array\r\n
+numComments=4

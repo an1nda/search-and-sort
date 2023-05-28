@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=B
+comment0.text=\r\n\ Linear\ Search\r\n\ \r\n
+comment1.params=
+comment1.target=B()
+comment1.text=\r\n\ TODO\:\ Set\ up\ this\ canvas\ by\r\n\ 1.\ Instantiating\ the\ main\ array\r\n\ 2.\ Choosing\ a\ target\ number\ to\ search\ for\r\n\ 3.\ Shuffling\ the\ array\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\ \ \ \ \r\n\ TODO\:\ Refactor\ any\ relevant\ code\ from\ class\ A\ into\ Canvas\ superclass\r\n\ so\ that\ you\ can\ use\ it\ in\ this\ class\r\n\ \r\n\ TODO\:\ Implement\ the\ code\ to\ show\ a\ linear\ search.\r\n
+comment3.params=nums\ target
+comment3.target=boolean\ linSearch(int[],\ int)
+comment3.text=\r\n\ TODO\:\ complete\ the\ code\ for\ this\ linear\ search\ algorithm\r\n\ to\ draw\ the\ array,\ highlighting\ the\ rectangle\ at\ position\ i\r\n
+numComments=4

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SortUtil
+comment0.text=\r\n\ Where\ the\ tools\ to\ shuffle,\ swap,\ setup,\ \r\n\ and\ draw\ the\ current\ state\ of\ the\ array\ \r\n\ are\ stored.\r\n\ \r\n\ @author\ Aninda\r\n\ @version\ v2\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ SortUtil\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=arr
+comment2.target=void\ setup(int[])
+comment2.text=\r\n\ Set\ up\ the\ array\ so\ that\ every\ element\ has\ a\ value\ that\ is\ an\ integer\r\n\ from\ 1\ to\ the\ length\ of\ the\ array\ (1\ -\ N).\r\n\ @param\ arr\ An\ array\ of\ integers\r\n
+comment3.params=arr
+comment3.target=void\ setupBinary(int[])
+comment4.params=arr\ i\ j
+comment4.target=void\ swap(int[],\ int,\ int)
+comment4.text=\r\n\ TODO\:\ Implement\ this\ method\r\n\ Swap\ elements\ at\ index\ positions\ i\ and\ j\ in\ the\ given\ array.\ \ \r\n\ @param\ arr\ An\ integer\ array\r\n\ @param\ a\ The\ index\ of\ one\ of\ the\ elements\ to\ swap\r\n\ @param\ b\ The\ index\ of\ the\ other\ element\ to\ swap\ with\r\n
+comment5.params=arr
+comment5.target=void\ shuffle(int[])
+comment5.text=\r\n\ Shuffle\ an\ array\ using\ the\ Fisher-Yates\ method.\r\n\ The\ Fisher-Yates\ method\ iterates\ the\ array\ once,\ swapping\ each\r\n\ element\ with\ a\ random\ element\ chosen\ in\ the\ range\ between\r\n\ the\ current\ position\ to\ the\ length\ of\ the\ array.\r\n\ @param\ arr\ An\ array\ of\ integers\r\n
+comment6.params=arr
+comment6.target=void\ drawArray(int[])
+comment6.text=\r\n\ Draw\ the\ given\ array\r\n\ @param\ arr\ An\ array\ of\ integers\r\n
+comment7.params=arr\ k
+comment7.target=void\ drawArray(int[],\ int)
+comment7.text=\r\n\ Draw\ the\ given\ array,\ highlighting\ the\ element\ at\ position\ k\r\n\ @param\ arr\ An\ integer\ array\r\n\ @param\ k\ The\ position\ in\ the\ array\ to\ draw\ in\ a\ different\ color.\ k\ <\ arr.length\r\n
+numComments=8

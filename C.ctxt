@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=C
+comment0.text=\r\n\ Binary\ Search\r\n
+comment1.params=
+comment1.target=C()
+comment1.text=\r\n\ TODO\:\ Implement\ the\ code\ to\ show\ a\ binary\ search\r\n\ 1.\ Create\ a\ method\ that\ creates\ an\ array\ with\ random\ numbers\ to\ allow\ for\ the\r\n\ potential\ for\ duplicates\ and\ missing\ values.\r\n\ 2.\ Sort\r\n\ 3.\ Create\ a\ target\ value\ that\ is\ a\ random\ integer\ from\ 1\ to\ the\ size\ of\ the\ array\r\n\ 4.\ Search\ the\ array,\ returning\ the\ time\ it\ took\ to\ find\ the\ target\ OR\r\n\ return\ 'target\ not\ found'\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=array\ key
+comment3.target=int\ binarySearch(int[],\ int)
+comment4.params=arr
+comment4.target=void\ bubbleSort(int[])
+numComments=5

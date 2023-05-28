@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ main\ world\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n
+comment2.params=
+comment2.target=void\ createButtons()
+comment2.text=\r\n\ Create\ and\ update\ the\ labels\r\n
+comment3.params=letter
+comment3.target=void\ displayHoverText(java.lang.String)
+comment3.text=\r\n\ Display\ the\ name\ of\ the\ exercise\ from\ the\ given\ letter\r\n\ @param\ letter\ A\ letter\ representing\ the\ Canvas\ that\ the\ mouse\ is\ hovering\ over\r\n
+comment4.params=
+comment4.target=void\ cancelHoverText()
+comment4.text=\r\n\ Cancel\ the\ hover\ Text\r\n
+comment5.params=text
+comment5.target=void\ display(java.lang.String)
+comment5.text=\r\n\ Display\ text\ in\ the\ middle\ of\ the\ canvas\r\n\ @param\ text\ The\ text\ to\ show\r\n
+comment6.params=letter
+comment6.target=void\ updateCanvas(java.lang.String)
+comment6.text=\r\n\ \ Show\ the\ correct\ canvas\ based\ on\ its\ letter\ \r\n\ \ @param\ letter\ A\ letter\ representing\ the\ Canvas\ subclass\ to\ display\r\n
+numComments=7
